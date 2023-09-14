@@ -1,5 +1,5 @@
 <x-guest-layout>
-    <x-slot>
+    <x-slot name="style">
         <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@400;700&display=swap" rel="stylesheet">
              <link href="lib/animate/animate.min.css" rel="stylesheet">
           

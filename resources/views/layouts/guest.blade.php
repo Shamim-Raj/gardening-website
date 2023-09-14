@@ -105,7 +105,7 @@
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-4">Our Office</h4>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Building No-1 (C-4 East), Angel City, &emsp;&ensp; Saver, Dhaka.</p>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Building No-1 (C-4 East), Angel City, &emsp;&ensp; Savar, Dhaka.</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+8801533440316</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>egsystem88@gmail.com</p>
                     <div class="d-flex pt-2">
